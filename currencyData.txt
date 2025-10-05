@@ -1,0 +1,55 @@
+Argentine Peso         16.043937	0.062329
+Australian Dollar	   0.017046	    58.665708
+Bahraini Dinar	       0.004238	    235.965563
+Botswana Pula	       0.152642	    6.551268
+Brazilian Real	       0.060065	    16.648521
+British Pound	       0.008358	    119.651716
+Bruneian Dollar	       0.014505	    68.939516
+Bulgarian Lev	       0.018761	    53.303082
+Canadian Dollar	       0.015710	    63.654870
+Chilean Peso	       10.829623	0.092339
+Chinese Yuan Renminbi  0.080249	    12.461252
+Colombian Peso	       43.749261	0.022858
+Czech Koruna	       0.232591	    4.299401
+Danish Krone	       0.071624	    13.961802
+Emirati Dirham	       0.041393	    24.158762
+Euro	               0.009592	    104.251766
+Hong Kong Dollar	   0.087698	    11.402766
+Hungarian Forint	   3.729478	    0.268134
+Icelandic Krona	       1.364049	    0.733111
+Indonesian Rupiah	   187.075930	0.005345
+Iranian Rial	       473.901343	0.002110
+Israeli Shekel	       0.037315	    26.798728
+Japanese Yen	       1.653371	    0.604825
+Kazakhstani Tenge	   6.165780	    0.162185
+Kuwaiti Dinar	       0.003444	    290.382387
+Libyan Dinar	       0.061081	    16.371613
+Malaysian Ringgit	   0.047419	    21.088446
+Mauritian Rupee	       0.510575	    1.958575
+Mexican Peso	       0.207132	    4.827845
+Nepalese Rupee	       1.600750	    0.624707
+New Zealand Dollar	   0.019326	    51.744203
+Norwegian Krone	       0.111852	    8.940407
+Omani Rial	           0.004339	    230.458463
+Pakistani Rupee	       3.187137	    0.313761
+Philippine Peso	       0.654840	    1.527091
+Polish Zloty	       0.040841	    24.485120
+Qatari Riyal	       0.041027	    24.374465
+Romanian New Leu	   0.048764	    20.507048
+Russian Ruble	       0.914811	    1.093122
+Saudi Arabian Riyal	   0.042266	    23.659480
+Singapore Dollar	   0.014505	    68.939516
+South African Rand	   0.193652	    5.163900
+South Korean Won	   15.801541	0.063285
+Sri Lankan Rupee	   3.409441	    0.293303
+Swedish Krona	       0.105400	    9.487706
+Swiss Franc	           0.008971	    111.467497
+Taiwan New Dollar	   0.342855	    2.916683
+Thai Baht	           0.364745	    2.741640
+Trinidadian Dollar	   0.076521	    13.068292
+Turkish Lira	       0.468903	    2.132638
+US Dollar	           0.011271	    88.723052
+
+
+
+
